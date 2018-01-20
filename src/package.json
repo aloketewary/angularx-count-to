@@ -1,0 +1,22 @@
+{
+  "name": "angularx-count-to",
+  "version": "0.0.1",
+  "description": "A popular package of AngularJs angular-count-to add same as support for Angular 4+",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloketewary/ngx-count-to.git"
+  },
+  "keywords": [
+    "count-to", "countTo", "ngx-count-to", "angular-count-to"
+  ],
+  "author": "aloketewary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aloketewary/ngx-count-to/issues"
+  },
+  "homepage": "https://github.com/aloketewary/ngx-count-to#readme"
+}
