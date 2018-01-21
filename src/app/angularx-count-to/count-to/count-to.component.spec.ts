@@ -1,14 +1,13 @@
+import { CountToComponent } from './count-to.component';
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { CountToComponent } from './count-to.component';
-
-describe('CountToComponent', () => {
+describe('TestComponent', () => {
   let component: CountToComponent;
   let fixture: ComponentFixture<CountToComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ CountToComponent ]
+      declarations: [CountToComponent ]
     })
     .compileComponents();
   }));
@@ -19,7 +18,7 @@ describe('CountToComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it('should be created', () => {
     expect(component).toBeTruthy();
   });
 });

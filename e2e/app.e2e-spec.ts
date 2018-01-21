@@ -1,10 +1,10 @@
-import { AppPage } from './app.po';
+import { NgxCliLibraryPage } from './app.po';
 
-describe('ngx-count-to App', () => {
-  let page: AppPage;
+describe('ngx-cli-library App', () => {
+  let page: NgxCliLibraryPage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new NgxCliLibraryPage();
   });
 
   it('should display welcome message', () => {

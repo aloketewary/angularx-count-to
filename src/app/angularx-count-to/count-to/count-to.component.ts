@@ -3,14 +3,15 @@ import { Component, ElementRef, OnInit, Input, OnChanges, OnDestroy, Output, Eve
 @Component({
   // tslint:disable-next-line:component-selector
   selector: 'countTo',
-  template: '{{ textContent }}',
+  templateUrl: './count-to.component.html',
+  styleUrls: ['./count-to.component.css']
 })
 export class CountToComponent implements OnInit, OnDestroy {
 
-  @Input() from;
-  @Input() to;
-  @Input() duration;
-  @Output() reset;
+  @Input() from: any;
+  @Input() to: any;
+  @Input() duration: any;
+  @Output() reset: any;
   num: number;
   private refreshInterval: number;
   private steps: number;
