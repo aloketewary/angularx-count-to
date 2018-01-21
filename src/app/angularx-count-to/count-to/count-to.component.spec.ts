@@ -1,7 +1,7 @@
 import { CountToComponent } from './count-to.component';
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-describe('TestComponent', () => {
+describe('[COMPONENT] : CountToComponent', () => {
   let component: CountToComponent;
   let fixture: ComponentFixture<CountToComponent>;
 
