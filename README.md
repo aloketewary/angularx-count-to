@@ -2,8 +2,9 @@
 ## version 1.0.4
 
 <!-- badge -->
-[![travis status](https://img.shields.io/travis/aloketewary/angularx-count-to.svg)](https://travis-ci.org/aloketewary/angularx-count-to)
-[![npm version](https://img.shields.io/npm/v/angularx-count-to.svg)](https://www.npmjs.com/package/angularx-count-to)
+[![travis status](https://img.shields.io/travis/aloketewary/angularx-count-to.svg?style=flat-square)](https://travis-ci.org/aloketewary/angularx-count-to)
+[![npm version](https://img.shields.io/npm/v/angularx-count-to.svg?style=flat-square)](https://www.npmjs.com/package/angularx-count-to)
+[![license](https://img.shields.io/github/license/aloketewary/angularx-count-to.svg?style=flat-square)]()
 <!-- endbadge -->
 
 The popular AngularJS based angular-count-to now counto for Angular 2+ including latest Angular 5.1.x release supported
