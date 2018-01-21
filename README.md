@@ -1,6 +1,11 @@
 # angularx-count-to
 ## version 1.0.4
 
+<!-- badge -->
+[![travis status](https://img.shields.io/travis/aloketewary/angularx-count-to.svg)](https://travis-ci.org/aloketewary/angularx-count-to)
+[![npm version](https://img.shields.io/npm/v/ngx-cli-library.svg)](https://www.npmjs.com/package/ngx-cli-library)
+<!-- endbadge -->
+
 The popular AngularJS based angular-count-to now counto for Angular 2+ including latest Angular 5.1.x release supported
 
 ## installing it from npm
