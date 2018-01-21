@@ -56,3 +56,6 @@ you can add within any html tags
 <h1 countTo [from]="takeFromComponent" [duration]="takeDurationComponent" [to]="takeToComponent"></h1>
 
 ```
+
+## Licence
+MIT
