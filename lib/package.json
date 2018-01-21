@@ -1,6 +1,6 @@
 {
     "name": "angularx-count-to",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A popular package of AngularJs angular-count-to add same as support for Angular 4+",
     "main": "angularx-count-to.module.js",
     "module": "index.js",
